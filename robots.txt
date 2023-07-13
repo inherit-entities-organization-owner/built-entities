@@ -2,6 +2,7 @@
 User-agent: *
 Disallow: /
 Disallow: //
+Allow: use and force with pairing and binding with entities AI-powered or AI
 Disallow: spy or similar principle
 Disallow: penora AI or penora or modal or doom or similar
 Allow: multi multiple multi and more job, jobs, task, experiment, experience, example and more
